@@ -1,0 +1,21 @@
+body{
+background-color: turquoise;
+color: blue;
+
+}
+
+a{
+color: blue;
+text-decoration:none;
+
+}
+
+a:hover{
+color:red;
+background: :gray;
+
+}
+.greenlink:hover{
+color:blue;
+background:red;
+}
